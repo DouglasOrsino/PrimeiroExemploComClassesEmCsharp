@@ -1,0 +1,7 @@
+C:\Users\Douglas Orsino\Desktop\csharp-examples\ProjetoVideoAula\AcademiaDotNet.CursoCSharp.ConsoleApplication\bin\Debug\AcademiaDotNet.CursoCSharp.ConsoleApplication.exe.config
+C:\Users\Douglas Orsino\Desktop\csharp-examples\ProjetoVideoAula\AcademiaDotNet.CursoCSharp.ConsoleApplication\bin\Debug\AcademiaDotNet.CursoCSharp.ConsoleApplication.exe
+C:\Users\Douglas Orsino\Desktop\csharp-examples\ProjetoVideoAula\AcademiaDotNet.CursoCSharp.ConsoleApplication\bin\Debug\AcademiaDotNet.CursoCSharp.ConsoleApplication.pdb
+C:\Users\Douglas Orsino\Desktop\csharp-examples\ProjetoVideoAula\AcademiaDotNet.CursoCSharp.ConsoleApplication\obj\Debug\AcademiaDotNet.CursoCSharp.ConsoleApplication.csprojAssemblyReference.cache
+C:\Users\Douglas Orsino\Desktop\csharp-examples\ProjetoVideoAula\AcademiaDotNet.CursoCSharp.ConsoleApplication\obj\Debug\AcademiaDotNet.CursoCSharp.ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Douglas Orsino\Desktop\csharp-examples\ProjetoVideoAula\AcademiaDotNet.CursoCSharp.ConsoleApplication\obj\Debug\AcademiaDotNet.CursoCSharp.ConsoleApplication.exe
+C:\Users\Douglas Orsino\Desktop\csharp-examples\ProjetoVideoAula\AcademiaDotNet.CursoCSharp.ConsoleApplication\obj\Debug\AcademiaDotNet.CursoCSharp.ConsoleApplication.pdb
